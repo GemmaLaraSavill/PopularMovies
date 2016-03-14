@@ -13,7 +13,7 @@ Go to the [themoviedb.org](http://themoviedb.org) and request an API key.
 Once you have it open
 _app/src/main/java/com/nanodegree/gemma/popularmovies2/data/Constants.java_ 
 file and add your own API key
-`public static final String API_KEY = "";
+`public static final String API_KEY = "";`
 
 
 
