@@ -5,7 +5,7 @@ Developed as part of my [Android Developer Nanodegree](https://www.udacity.com/n
 This app communicates with the Internet and provides a responsive and delightful user experience. 
 When offline the data is provided from a local cache of data using an internal database.
 
-## Instalation
+## Installation
 
 Clone the code and import it as a project into [Android Studio](http://developer.android.com/intl/es/tools/studio/index.html)
 
