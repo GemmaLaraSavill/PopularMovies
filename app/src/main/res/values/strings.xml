@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_movies_sort_by_label">Sort movies by</string>
+    <string name="pref_movies_sort_by_key">sortby</string>
+
+    <string name="pref_movies_sort_by_label_popular">Most popular</string>
+    <string name="pref_movies_sort_by_popular">popularity</string>
+
+    <string name="pref_movies_label_favorites">Favorite movies</string>
+    <string name="pref_movies_favorites">favorite</string>
+
+    <string name="pref_movies_sort_by_label_rating">Highest rated</string>
+    <string name="pref_movies_sort_by_rating">vote_average</string>
+    <string name="title_activity_movie_detail">MovieDetailActivity</string>
+    <string name="trailers">VIDEOS</string>
+    <string name="mark_favorite">Favorite</string>
+    <string name="mark_non_favorite">Not favorite</string>
+    <string name="noMoviesFound">No movies found, please check internet connection.</string>
+    <string name="noFavMoviesFound">No favorite movies found. Change sort by order in Settings screen to view more movies.</string>
+    <string name="reviews">REVIEWS</string>
+    <string name="action_share">Share</string>
+    <string name="noVideoToShare">No video to share for this movie</string>
+
+
+</resources>

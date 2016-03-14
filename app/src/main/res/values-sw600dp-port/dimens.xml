@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="detail_card_height">300dp</dimen>
+    <dimen name="date_icon_padding_right">32dp</dimen>
+    <dimen name="content_padding_top">32dp</dimen>
+    <dimen name="title_padding_top">24dp</dimen>
+    <dimen name="title_padding_left">16dp</dimen>
+
+    <dimen name="thumb_detail_width">150dp</dimen>
+    <dimen name="thumb_detail_height">225dp</dimen>
+</resources>

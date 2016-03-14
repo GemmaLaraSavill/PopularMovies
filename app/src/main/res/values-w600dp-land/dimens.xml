@@ -1,0 +1,11 @@
+<resources>
+
+    <dimen name="detail_card_height">384dp</dimen>
+    <dimen name="date_icon_padding_right">32dp</dimen>
+    <dimen name="content_padding_top">32dp</dimen>
+    <dimen name="title_padding_top">24dp</dimen>
+    <dimen name="title_padding_left">16dp</dimen>
+    
+    <dimen name="thumb_detail_width">216dp</dimen>
+    <dimen name="thumb_detail_height">324dp</dimen>
+</resources>
