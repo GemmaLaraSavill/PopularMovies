@@ -1,7 +1,7 @@
 # Popular Movies
 
 Android app that shows you popular movies using [themoviedb.org](http://themoviedb.org) API. 
-Developed as part of my [Android Developer Nanodegree](https://www.udacity.com/nanodegree) at [Udacity](https://www.udacity.com/nanodegree).
+Developed as part of my [Android Developer Nanodegree](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801) at [Udacity](https://www.udacity.com/nanodegree).
 This app communicates with the Internet and provides a responsive and delightful user experience. 
 When offline the data is provided from a local cache of data using an internal database.
 
